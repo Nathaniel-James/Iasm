@@ -42,8 +42,20 @@ impl ProgramVariable {
     }
 
     fn mul(&mut self, number: isize) {
-        
+
     }
+
+    fn div(&mut self, number: isize) {
+
+    }
+
+
+
+    // Masks
+    fn and() {}
+    fn or() {}
+    fn xor() {}
+    fn not() {}
 
 
 
